@@ -1,3 +1,5 @@
+<embed width="420" height="315" src="https://www.youtube.com/watch?v=S2YmGoWgN1U&feature=youtu.be">
+
 <b>Procedure:</b>
 
 This repository is used to run videos and display images on a raspberry pi on fullscreen using OMXPLAYER and FBI image viewer
@@ -35,3 +37,5 @@ The file structure should be as follows:
     |-----image.jpg
 
 You should make a folder Kiosk and inside the folder you should have the image and video file of your choice.
+
+Watch Video on : https://www.youtube.com/watch?v=S2YmGoWgN1U&feature=youtu.be
